@@ -1,0 +1,92 @@
+{
+	"Info": {
+		"FullName": "Веснин Максим Викторович",
+		"Birthday": "02-11-1990",
+		"Email": "maks@bless-rng.ru",
+		"Phone": "+79313255172"
+	},
+	"Skills": {
+		"MainLanguage": "PHP",
+		"Technoligies": [
+			"Symfony 4,5,6",
+			"SQL/PostgreSQL/MySQL",
+			"Redis",
+			"RabbitMQ",
+			"Docker",
+			"Composer",
+			"Linux",
+			"Git/Gitlab, CI/CD",
+			"Nginx"
+		],
+		"SecondaryLanguages": [
+			"C#",
+			"JAVA",
+			"GO"
+		]
+	},
+	"Experiences": [
+		{
+			"Company": "Milky-Games (closed)",
+			"Position": "Intern C#/Unity developer",
+			"Period": {
+				"From": "Сентябрь 2015",
+				"To": "Май 2016"
+			},
+			"Description": "Разработка игр под мобильные платформы для детей c исопльзованием движка Unity3d"
+		},
+		{
+			"Company": "Rockstone",
+			"Position": "Middle C#/Unity developer",
+			"Period": {
+				"From": "Июль 2016",
+				"To": "Декабрь 2017"
+			},
+			"Description": "Разработка игр под мобильные платформы и WebGL. Написание поведения/логики для юнитов, UI"
+		},
+		{
+			"Company": "Tektosoft",
+			"Position": "Middle developer",
+			"Period": {
+				"From": "Январь 2018",
+				"To": "Август 2020"
+			},
+			"Description": "C#/Unity 3D:\n\tРазработка проекта с использованием дополненной реальности(Vuforia) для демонстрации развлекательного центра \"Чудо Остров\".\nJava:\n\tРазработка и поддержка плагина для Jira крупной бухгалтерской аутсорс компании.\n\t(Java, Atlassian SDK, RestAPI, JQuery, Ajax, SOY, Velocity). Релизация взаимодействия тасок в JIRA с 1С, личным кабинетом, почтой клиентов по АПИ.\n\n\tДоработка и исправление бэкенда для компании такси(Spring boot, web socket)\nPHP:\n\tРазработка сервиса для размещения площадок для проведения мероприятий. Стек технологий: PHP 7.3, Symfony 4, JS, HTML, CSS(частичный фулстек), Docker, MySQL."
+		},
+		{
+			"Company": "Petshop.ru",
+			"Position": "Middle PHP developer",
+			"Period": {
+				"From": "Август 2020",
+				"To": "Март 2021"
+			},
+			"Description": "Участие в разработки новой системы интернет магазина. Разработка новых модулей системы. Работа в рамках архитектуры DDD. Написание юнит тестов.\nИспользуемые технологии: PHP, PostgreSQL, Symfony, Docker"
+		},
+		{
+			"Company": "МТС/Stream",
+			"Position": "Senior PHP Developer",
+			"Period": {
+				"From": "Март 2021",
+				"To": "Апрель 2022"
+			},
+			"Description": "Поддержка и развитие биллинговой платформы в рамках микросервисной архитектуры. \nРеализация нового api, исправление багов, оптимизация запросов в бд, ускорение работы  админки, добавление нового функционала.\nНакатка индексов на боевую высоконагруежнную базу.\nТехнологии: PHP, Yii, PostgreSQL, RabbitMQ, Docker, Kubernetes, Helm"
+		},
+		{
+			"Company": "ГК Eqvanta",
+			"Position": "Senior PHP Developer",
+			"Period": {
+				"From": "Апрель 2022",
+				"To": "Август 2022"
+			},
+			"Description": "Поддержка и развитие админки. На проекте была реализованна мульти-тенантная архитектура. PHP, Yii, PostgreSQL, RabbitMQ, Docker"
+		},
+		{
+			"Company": "Банк 131",
+			"Position": "Lead PHP Developer",
+			"Period": {
+				"From": "Август 2023",
+				"To": "Октябрь 2024"
+			},
+			"Description": "Интеграция с платежными системами через партнерское апи\nАнализ и декомпозиция планируемых интеграций\nУчастие в бординге партнеров\nCode-review"
+		}
+	]
+}
